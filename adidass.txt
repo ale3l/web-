@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+        <title>adidas.html</title>
+    </head>
+    <body>
+        <div style="text-align: center; font-family: Baskerville Old Face; color: black;">
+            <h3 style="text-align: center;">adidas</h3>
+            <br>
+            <img style="width: 448px; height: 305px;" alt="" src="file:///C:/Users/brian/Downloads/WhatsApp%20Image%202024-04-21%20at%2012.54.42%20PM.jpeg">
+            <br>
+            <br>
+            <br>
+            <span style="font-family: Bahnschrift SemiLight SemiConde;"></span>
+            <br>
+            <h1 class="elementor-heading-title elementor-size-default" style="margin: 0px; padding: 0px; font-family: Rubik,sans-serif; font-weight: 500; line-height: 1.1em; color: rgb(12, 12, 12); font-size: 50px; font-style: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">
+                <small>
+                    <small>
+                        <small>Adidas: así nació la historia de la marca deportiva</small>
+                    </small>
+                </small>
+            </h1>
+            <br>
+            <ul style="border: 0px none ; background: rgb(255, 255, 255) none repeat scroll 0%; outline-color: invert; outline-style: none; outline-width: 0px; font-size: 18px; vertical-align: baseline; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal;">
+                <li style="border: 0px none ; background: transparent none repeat scroll 0%; outline-color: invert; outline-style: none; outline-width: 0px; font-size: 18px; vertical-align: baseline; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                    <h2 style="font-family: Rubik,sans-serif; font-weight: 500; line-height: 2em; color: inherit; font-size: 18px; letter-spacing: 0px;">
+                        <strong style="font-weight: 700;">Adidas es una de las marcas más usadas en el mundo deportivo en donde ha tenido presencia en torneos importantes.&nbsp;</strong>
+                    </h2>
+                </li>
+                <li style="border: 0px none ; background: transparent none repeat scroll 0%; outline-color: invert; outline-style: none; outline-width: 0px; font-size: 18px; vertical-align: baseline; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                    <h2 style="font-family: Rubik,sans-serif; font-weight: 500; line-height: 2em; color: inherit; font-size: 18px; letter-spacing: 0px;">Adidas patrocina a la Champions League, Europa League, entre otros torneos deportivos.</h2>
+                </li>
+                <li style="border: 0px none ; background: transparent none repeat scroll 0%; outline-color: invert; outline-style: none; outline-width: 0px; font-size: 18px; vertical-align: baseline; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                    <h2 style="font-family: Rubik,sans-serif; font-weight: 500; line-height: 2em; color: inherit; font-size: 18px; letter-spacing: 0px;">Adidas fue la marca mejor calificada por Profeco tras contar con calidad de tops deportivos.</h2>
+                </li>
+            </ul>
+            <div class="code-block code-block-1" style="margin: 8px 8px 8px 0px; color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); float: left;">
+                <center style=""></center>
+            </div>
+            <p style="font-family: Arial;">
+                <strong style="font-weight: 700;">Adidas fue creada por los hermanos Adolf y Rudolf Dassler,</strong>
+                <span>&nbsp;</span>
+                quienes
+eran apasionados por el deporte y quienes en 1920 crearon la empresa
+con el nombre de &#8216;Geda &#8217;(Fábrica de Zapatos Hermanos Dassler), nacida
+en un pequeño pueblo de Alemania.
+            </p>
+            <p style="font-family: Arial;">
+                Su éxito fue impactante, pero las diferencias entre ambos hermanos comenzaron a separar sus ideas al grado de que<span>&nbsp;</span>
+                <strong style="font-weight: 700;">Adolfo creó Adidas, mientras que su Rudolf le dio vida a Puma</strong>
+                .
+            </p>
+            <p style="font-family: Arial;">
+                <strong style="font-weight: 700;">El símbolo de la marca representa el rendimiento de los productos que tiene Adidas</strong>
+                ;
+su primer logotipo apareció en 1949 en donde hicieron la representación
+de unas botas con tres rayas que sostienen los elementos de las letras.
+            </p>
+            <p>
+                <span style="font-family: Arial;">En la actualidad sus tres rayas representan la gama &nbsp;</span>
+                <strong style="font-weight: 700;">
+                    <span style="font-family: Arial;">Adidas Styl</span>
+                    e, la cual fue rediseñada en 2020 en donde se identifica
+                </strong>
+                <span>&nbsp;</span>
+                la
+colaboración con diseños famosos. La raya más grande significa Montaña,
+lo que significa la cima de grandes desafíos en la vida. Asimismo, las
+tres líneas representan el desafío que tiene la compañía en cada una de
+sus presentaciones en el mercado, manteniendo la forma en cada modelo
+nuevo de ropa, calzado, joyería, entre otros.
+            </p>
+            <p class="p1" style="color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">
+                La compañía fundada en Alemania por<span>&nbsp;</span>
+                <strong style="font-weight: 700;">Adolf Dassler en 1949, siempre está en los mejores eventos deportivos</strong>
+                <span>&nbsp;</span>
+                como
+la Champions League, Premier League, Copa del Mundo, Torneo de Roland
+Garros, NFL, NBA, MLB, La Liga, Serie A y Juegos Olímpicos, la cual
+realiza una serie de productos y artículos para promover su marca,
+incluso la firma ha hecho alianza con grandes estrellas del deporte
+como Lionel Messi, Cristiano Ronaldo, Neymar Jr entre otros para
+impulsar sus promociones mediante la venta de tenis y playeras.
+            </p>
+            <p class="p1" style="color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">
+                <strong style="font-weight: 700;">Recientemente la firma de las tres rayas le hizo un homenaje a Leo Messi</strong>
+                ,
+quien es el actual campeón de la Copa del Mundo de Qatar 2022 con la
+Selección Argentina, los cuales festejaron junto al jugador del PSG su
+gran victoria, por lo que colocaron una imagen digital en medio de las
+calles de Dubai Frame y con ello la marca generó tendencia en redes
+sociales.<span class="Apple-converted-space" style="">&nbsp;</span>
+            </p>
+            <p class="p1" style="color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">
+                Por otro lado,<span>&nbsp;</span>
+                <strong style="font-weight: 700;">Adidas ha hecho varías alianzas comerciales para difundir sus productos,</strong>
+                <span>&nbsp;</span>
+                pues
+con la celebración de los 100 años de Disney, la marca lanzó nuevos
+productos inspirados en los personajes, asimismo para la actual
+temporada de la Champions League, la compañía está en espera de los
+equipos finalistas.
+            </p>
+            <p class="p1" style="color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">
+                Cabe destacar que últimamente<span>&nbsp;</span>
+                <strong style="font-weight: 700;">Adidas es tendencia, pues la marca sacó sus nuevos tenis</strong>
+                <span>&nbsp;</span>
+                en
+concha de pan, la cual se ha convertido en una tremenda locura en
+México y su precio es de 2 mil 399 pesos mexicanos y estás son de sabor
+vainilla, fresa y chocolate, con las cuales puedes lucir espectacular.
+            </p>
+            <div style="text-align: center;">
+                <br>
+            </div>
+            <p class="p1" style="color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">
+                <img fetchpriority="high" decoding="async" class="wp-image-764673 aligncenter" src="https://files.merca20.com/uploads/2023/05/Captura-de-Pantalla-2023-05-29-a-las-0.33.02.png" alt="" srcset="https://files.merca20.com/uploads/2023/05/Captura-de-Pantalla-2023-05-29-a-las-0.33.02.png 892w, https://files.merca20.com/uploads/2023/05/Captura-de-Pantalla-2023-05-29-a-las-0.33.02-600x398.png 600w, https://files.merca20.com/uploads/2023/05/Captura-de-Pantalla-2023-05-29-a-las-0.33.02-211x140.png 211w, https://files.merca20.com/uploads/2023/05/Captura-de-Pantalla-2023-05-29-a-las-0.33.02-310x206.png 310w" sizes="(max-width: 497px) 100vw, 497px" style="border: medium none ; height: auto; max-width: 100%; vertical-align: middle; clear: both; display: block; margin-left: auto; margin-right: auto; color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);" height="330" width="497">
+            </p>
+            <br>
+            <p class="p1" style="color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">
+                <img style="width: 232px; height: 353px;" alt="" src="file:///C:/Users/brian/Downloads/WhatsApp%20Image%202024-04-21%20at%201.09.51%20PM.jpeg">
+            </p>
+            <br>
+            <p class="p1" style="color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">los zapatos mas vendidos de adidas</p>
+            <ol style="text-align: left;">
+                <li>
+                    Adidas Superstar: Un clásico icónico que ha sido popular por décadas.Adidas <br>
+                </li>
+                <li>Stan Smith: Otro modelo clásico y atemporal que ha tenido un gran éxito.</li>
+                <li>Adidas Ultraboost: Reconocido por su comodidad y rendimiento en correr.</li>
+                <li>Adidas NMD: Con un diseño moderno y tecnológico, ha sido muy popular entre los aficionados a la moda.</li>
+                <li>Adidas Gazelle: Un modelo retro que ha vuelto a ganar popularidad en los últimos años.</li>
+                <li>Adidas Yeezy: La colaboración con Kanye West ha producido varios modelos codiciados.</li>
+                <li>Adidas Continental 80: Un estilo retro que ha vuelto con fuerza.</li>
+                <li>Adidas Samba: Un clásico del estilo casual que ha mantenido su popularidad.</li>
+                <li>Adidas Campus: Otro modelo clásico que ha sido relevante en la cultura sneaker.</li>
+                <li>Adidas EQT: Reconocido por su diseño inspirado en el running y su comodidad.</li>
+            </ol>
+            <img style="width: 620px; height: 415px;" alt="" src="file:///C:/Users/brian/Downloads/WhatsApp%20Image%202024-04-21%20at%201.22.51%20PM.jpeg">
+            <br>
+            <br>
+            <br>
+            <span style="font-weight: bold;">
+                quien es el dueño de adidas actual y quin fue se fundador<br>
+            </span>
+            <div style="text-align: left;">
+                <big>
+                    <big>su fundador fue</big>
+                </big>
+                <span style="font-weight: bold;"></span>
+                <a class="FLP8od" href="https://www.google.com/search?sca_esv=2386da0e1e038e73&amp;bih=599&amp;biw=1366&amp;rlz=1C1CHBF_esMX1049MX1049&amp;hl=es&amp;q=Adolf+Dassler&amp;stick=H4sIAAAAAAAAAONgVuLUz9U3MDe3rKp4xGjCLfDyxz1hKe1Ja05eY1Tl4grOyC93zSvJLKkUEudig7J4pbi5ELp4FrHyOqbk56QpuCQWF-ekFgEAb5_cWlQAAAA&amp;sa=X&amp;ved=2ahUKEwjb7ozV99OFAxVsRDABHZxMABAQzIcDKAB6BAgUEAE" data-ved="2ahUKEwjb7ozV99OFAxVsRDABHZxMABAQzIcDKAB6BAgUEAE" style="text-decoration: none; outline-color: invert; outline-style: none; outline-width: 0px; font-family: arial,sans-serif; font-size: 32px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);">Adolf Dassler</a>
+                <br>
+            </div>
+            <span style="color: rgb(71, 71, 71); font-family: &quot;Google Sans&quot;,arial,sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); display: inline ! important; float: none;">
+                La nueva empresa, conocida hoy como<span>&nbsp;</span>
+            </span>
+            <b style="background-color: rgb(211, 227, 253); color: rgb(4, 12, 40); font-weight: 500; font-family: &quot;Google Sans&quot;,arial,sans-serif; font-size: 16px; font-style: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal;">Adidas AG</b>
+            <span style="color: rgb(71, 71, 71); font-family: &quot;Google Sans&quot;,arial,sans-serif; font-size: 16px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255); display: inline ! important; float: none;">,
+es el holding del Grupo Adidas y el único propietario de Adidas.
+Algunos de los principales accionistas de la empresa incluyen: Groupe
+Bruxelles Lambert SA (7.6 %), Nassef Sawiris (3.3 %) y Norges Bank
+Investment Management (2.8 %).</span>
+            <br>
+            <br>
+            <br>
+            <p class="p1" style="color: rgb(12, 12, 12); font-family: Montserrat,sans-serif; font-size: 18px; font-style: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; white-space: normal; background-color: rgb(255, 255, 255);"></p>
+        </div>
+    </body>
+</html>
